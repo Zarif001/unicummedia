@@ -1,0 +1,43 @@
+.images {
+      width: 400px;
+}
+.slick-dots{
+    position: static;
+}
+.slick-dots li button:before{
+    font-size: 15px;
+    line-height: 8px;
+    color: #fff;
+}
+.slick-arrow{
+    display: none !important;
+}
+.box-images {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+}
+.images{
+    width: 300px;
+    display: block;
+}
+@media(max-width:870px){
+    .images{
+        width: 250px;
+    }
+}
+@media(max-width:750px){
+    .images{
+        width: 200px;
+    }
+}
+@media(max-width:590px){
+    .images{
+        width: 130px;
+    }
+}
+@media(max-width:400px){
+    .images{
+        width: 110px;
+    }
+}
