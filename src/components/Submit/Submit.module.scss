@@ -74,6 +74,11 @@
   .nameInput{
     width: 300px !important;
     font-size: 14px !important;
+    padding: 10px 0 !important;
+    padding-left: 15px !important;
+  }
+  .nameInput:nth-of-type(4){
+    padding: 10px 0 80px 15px !important;
   }
   
 }

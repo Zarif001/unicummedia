@@ -45,27 +45,18 @@
     
     .title {
       text-align: center;
-      font-size: 32px;
-      line-height: 44px;
+      font-size: 24px;
+      line-height: 28px;
     }
     .text {
       text-align: center;
-      font-size: 22px;
-      line-height: 26px;
+      font-size: 18px;
+      line-height: 22px;
     }
     .link{
       font-size: 16px;
       line-height: 22px;
-      text-align: center;
     }
   }
 }
-@media(max-width:400px){
-  .request{
-    .text{
-      font-size: 19px;
-      line-height: 22px;
-  
-    }
-  }
-}
+

@@ -77,12 +77,25 @@
 @media (max-width: 600px) {
   .services {
     .title {
-      font-size: 28px;
-      line-height: 38px;
+      font-size: 24px;
+      line-height: 28px;
     }
     .text{
-      font-size: 21px;
-    line-height: 24px;
+      font-size: 18px;
+      line-height: 22px;
+    }
+    .item{
+      margin: 20px;
+
+      img{
+        width: 70px !important;
+      }
+      h4{
+        font-size: 24px !important;
+      }
+      p{
+        font-size: 12px !important;
+      }
     }
  
   }
@@ -91,14 +104,14 @@
   .services{
     .item{
       img{
-        width: 80px;
+        width: 65px;
       }
       h4{
-        font-size: 24px;
+        font-size: 22px !important;
       }
       p{
-        font-size: 16px !important;
-        line-height: 24px !important;
+        font-size: 12px !important;
+        line-height: 14px !important;
       }
     }
   }
