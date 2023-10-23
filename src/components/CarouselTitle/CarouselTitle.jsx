@@ -12,7 +12,7 @@ function CarouselTitle() {
   return (
     <div id="clients">
       <h3 className={styles.title} style={combinedStyles}>Наши клиенты</h3>
-      <h6 className={styles.text}>Счастливые клиенты наших услуг.</h6>
+      <h4 className={styles.text}>Счастливые клиенты наших услуг.</h4>
     </div>
   );
 }

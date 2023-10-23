@@ -22,7 +22,7 @@ function Service() {
 
       <div className={styles.items}>
         <div className={styles.item}>
-          <img src="./images/serviceImg1.png" alt="serviceImg1" />
+          <img src="./images/serviceImg1.webp" alt="serviceImg1" />
           <div>
             <h4 style={combinedStyles}>СММ</h4>
             <p>
@@ -36,7 +36,7 @@ function Service() {
           </div>
         </div>
         <div className={styles.item}>
-          <img src="./images/aboutImg3.png" alt="aboutImg3" />
+          <img src="./images/aboutImg3.webp" alt="aboutImg3" />
           <div>
             <h4 style={combinedStyles}>Работа со сми</h4>
             <p>
@@ -47,7 +47,7 @@ function Service() {
           </div>
         </div>
         <div className={styles.item}>
-          <img src="./images/serviceImg3.png" alt="serviceImg3" />
+          <img src="./images/serviceImg3.webp" alt="serviceImg3" />
           <div>
             <h4 style={combinedStyles}>Video production</h4>
             <p>
@@ -61,7 +61,7 @@ function Service() {
           </div>
         </div>
         <div className={styles.item}>
-          <img src="./images/serviceImg4.png" alt="serviceImg4" />
+          <img src="./images/serviceImg4.webp" alt="serviceImg4" />
           <div>
             <h4 style={combinedStyles}>atl\btl</h4>
             <p>
@@ -78,7 +78,7 @@ function Service() {
           </div>
         </div>
         <div className={styles.item}>
-          <img src="./images/aboutImg.png" alt="aboutImg" />
+          <img src="./images/aboutImg.webp" alt="aboutImg" />
           <div>
             <h4 style={combinedStyles}>Контекстная реклама</h4>
             <p>

@@ -15,7 +15,7 @@ function Content() {
       <div className={style.phoneButton}>
         <img
           className={style.phoneButtonImg}
-          src="./images/button-call.png"
+          src="./images/button-call.webp"
           alt="button-call"
         />
         <div className={style.phoneCall}>
@@ -34,13 +34,13 @@ function Content() {
         <p className={style.serviceText}>услуги, которые мы предоставляем:</p>
         <div className={style.socials}>
           <a href="/">
-            <img src="./images/telegram.png" alt="telegram" />
+            <img src="./images/telegram.webp" alt="telegram" />
           </a>
           <a href="/">
-            <img src="./images/instagram.png" alt="instagram" />
+            <img src="./images/instagram.webp" alt="instagram" />
           </a>
           <a href="/">
-            <img src="./images/facebook.png" alt="facebook" />
+            <img src="./images/facebook.webp" alt="facebook" />
           </a>
         </div>
       </div>

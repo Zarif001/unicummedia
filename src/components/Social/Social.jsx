@@ -11,7 +11,7 @@ function Social() {
   return (
     <div className={styles.social} id="contacts">
       <div className={styles.box}>
-        <img src="./images/Logo.png" alt="logo" />
+        <img src="./images/Logo.webp" alt="logo" />
         <h4>
           Агенство цифрового маркетинга <br /> полного цикла
         </h4>
@@ -56,9 +56,9 @@ function Social() {
     </div>
 
     <div className={styles.pictures}>
-        <img src="./images/01instagram.png" alt="instagram" />
-        <img src="./images/01facebook.png" alt="facebook" />
-        <img src="./images/01telegram.png" alt="telegram" />
+        <img src="./images/01instagram.webp" alt="instagram" />
+        <img src="./images/01facebook.webp" alt="facebook" />
+        <img src="./images/01telegram.webp" alt="telegram" />
     </div>
     </div>
   );

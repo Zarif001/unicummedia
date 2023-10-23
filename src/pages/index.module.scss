@@ -4,8 +4,19 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-
+    animation: fadeIn 2s ease-in-out;
 }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translate(-2000px);
+    }
+    to {
+        transform: translate(0px);
+      opacity: 1;
+    }
+  }
 @media(max-width:1024px){
     .header{
         height: 100%;

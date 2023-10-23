@@ -5,7 +5,7 @@ function Nav() {
     <div className={style.nav} id="main">
       <div>
         <a href="/">
-        <img className={style.navImg} src="./images/Logo.png" alt="logo" />
+        <img className={style.navImg} src="./images/Logo.webp" alt="logo" />
         </a>
       
       </div>
