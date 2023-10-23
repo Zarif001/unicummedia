@@ -48,7 +48,7 @@ function Content() {
       <div className={style.pictureBox}>
         <img
           className={style.img}
-          src="./images/person-with-laptop.png"
+          src="./images/person-with-laptop.webp"
           alt="person-with-laptop"
         />
       </div>
