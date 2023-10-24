@@ -3,7 +3,7 @@
   padding-top: 40px;
   align-items: center;
   .navImg {
-    width: 250px;
+    width: 300px;
     display: block;
   }
   .navUl {
@@ -64,9 +64,6 @@
 }
 @media(max-width:520px){
   .nav{
-    .navImg{
-      width: 300px;
-    }
     .navLi{
       margin-right: 15px !important;
       font-size: 13px !important;

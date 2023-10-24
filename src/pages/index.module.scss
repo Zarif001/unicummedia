@@ -10,10 +10,8 @@
   @keyframes fadeIn {
     from {
       opacity: 0;
-      transform: translate(-2000px);
     }
     to {
-        transform: translate(0px);
       opacity: 1;
     }
   }
