@@ -31,16 +31,13 @@ function Content() {
       </div>
 
       <div>
-        <p className={style.serviceText}>услуги, которые мы предоставляем:</p>
+        <p className={style.serviceText}>Создайте свой Unicum:</p>
         <div className={style.socials}>
-          <a href="/">
+          <a href="https://t.me/rieltorDana">
             <img src="./images/telegram.webp" alt="telegram" />
           </a>
-          <a href="/">
+          <a href="https://www.instagram.com/unicummedia.uz/">
             <img src="./images/instagram.webp" alt="instagram" />
-          </a>
-          <a href="/">
-            <img src="./images/facebook.webp" alt="facebook" />
           </a>
         </div>
       </div>

@@ -4,7 +4,7 @@ import styles from './CarouselTitle.module.scss'
 function CarouselTitle() {
     const combinedStyles = {
         textShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)',
-        background: 'linear-gradient(90deg, #ebb9cb 2.09%, #000 100%)',
+        background: 'linear-gradient(90deg, #fff 2.09%, #fff 100%)',
         backgroundClip: 'text',
         WebkitBackgroundClip: 'text',
         WebkitTextFillColor: 'transparent',

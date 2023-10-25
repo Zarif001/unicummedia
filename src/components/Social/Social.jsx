@@ -57,7 +57,6 @@ function Social() {
 
     <div className={styles.pictures}>
         <img src="./images/01instagram.webp" alt="instagram" />
-        <img src="./images/01facebook.webp" alt="facebook" />
         <img src="./images/01telegram.webp" alt="telegram" />
     </div>
     </div>

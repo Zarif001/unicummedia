@@ -9,4 +9,15 @@
 :root{
   scroll-behavior: smooth;
 }
+body{
+  animation: opacity 2s linear;
+}
+@keyframes opacity {
+  from{
+      opacity: 0;
+  }
+  to{
+      opacity: 1;
+  }
 
+}
