@@ -19,7 +19,7 @@ function Content() {
           alt="button-call"
         />
         <div className={style.phoneCall}>
-          <a href="tel:+998994999966">
+          <a href="tel:+998900110380">
             <img
               className={style.phoneImg}
               src="./images/phone-call.svg"
