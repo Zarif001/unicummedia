@@ -30,7 +30,7 @@ function WhyWe() {
         <div className={styles.item}>
           <img src="./images/aboutImg2.webp" alt="aboutImg-2" />
           <div className={styles.caption}>
-            <h3 style={combinedStyles}>префессиональная команда</h3>
+            <h3 style={combinedStyles}>профессиональная команда</h3>
           </div>
         </div>
         <div className={styles.item}>
