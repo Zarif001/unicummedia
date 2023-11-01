@@ -44,7 +44,7 @@ function Social() {
               <a href="tel:+998994999966">+998994999966</a>
             </li>
             <li>
-              <a href="tel:+998900110380">+998900110380</a>
+              <a href="tel:+998996756666">+998996756666</a>
             </li>
             <li>
               <a href="/">unicummedia@gmail.com</a>
