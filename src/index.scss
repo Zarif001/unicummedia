@@ -12,6 +12,14 @@
 body{
   animation: opacity 2s linear;
 }
+.App {
+  position: relative;
+}
+.Snowfall {
+  position: absolute;
+  z-index: -1;
+  pointer-events: none;
+}
 @keyframes opacity {
   from{
       opacity: 0;
