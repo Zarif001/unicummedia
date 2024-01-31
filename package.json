@@ -22,6 +22,7 @@
     "react-snow": "^0.0.1",
     "react-snow-effect": "^1.2.0",
     "react-snowfall": "^1.2.1",
+    "react-spring": "^9.7.3",
     "scss": "^0.2.4",
     "sharp": "^0.32.6",
     "slick-carousel": "^1.8.1",

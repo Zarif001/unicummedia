@@ -23,7 +23,7 @@ function Nav() {
           </li>
           <li>
             <a className={style.navLi} href="#services">
-            услугы
+            услуги
             </a>
           </li>
           <li>

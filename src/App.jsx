@@ -21,12 +21,7 @@ function App() {
       <Header />
       <Main />
       <Footer />
-      <Snowfall snowflakeCount={400}
-      
-      />
-
-      
-
+      <Snowfall snowflakeCount={400} />
     </div>
   );
 }

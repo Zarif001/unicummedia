@@ -10,7 +10,6 @@ function Carousel() {
     speed: 500,
     slidesToShow: 1,
     slidesToScroll: 1,
-    autoplay: true,
     autoPlaySpeed: 2,
     cssEase: "linear",
   };
@@ -19,6 +18,33 @@ function Carousel() {
     <Slider {...settings}>
       <div className="box-images">
         <img
+          className="images"
+          src="./images/sponsors/23.webp"
+          alt="img-23-republic"
+          loading="lazy"
+        />
+        <img
+          className="images"
+          src="./images/sponsors/24.webp"
+          alt="img-24-alSafi"
+          loading="lazy"
+        />
+        <img
+          className="images"
+          src="./images/sponsors/25.webp"
+          alt="img-25-dobroe"
+          loading="lazy"
+
+  
+        />
+
+        <img
+          className="images"
+          src="./images/sponsors/26.webp"
+          alt="img-26-alibaba"
+        loading="lazy"
+        />
+       <img
           className="images"
           src="./images/sponsors/2.webp"
           alt="img-2-vertus"
@@ -30,13 +56,25 @@ function Carousel() {
           alt="img-3-NodirIbatov"
           loading="lazy"
         />
+      </div>
+      <div className="box-images">
+      <img
+          className="images"
+          src="./images/sponsors/6.webp"
+          alt="img-6-jasurMuhammadjanov"
+        loading="lazy"
+        />
+        <img
+          className="images"
+          src="./images/sponsors/22.webp"
+          alt="img-22-mednur"
+      loading="lazy"
+        />
         <img
           className="images"
           src="./images/sponsors/4.webp"
           alt="img-4-ibatovClinic"
           loading="lazy"
-
-  
         />
 
         <img
@@ -141,18 +179,7 @@ function Carousel() {
           alt="img-5-kurbanovJamshid"
         loading="lazy"
         />
-        <img
-          className="images"
-          src="./images/sponsors/6.webp"
-          alt="img-6-jasurMuhammadjanov"
-        loading="lazy"
-        />
-        <img
-          className="images"
-          src="./images/sponsors/22.webp"
-          alt="img-22-mednur"
-      loading="lazy"
-        />
+  
       </div>
     </Slider>
   );
