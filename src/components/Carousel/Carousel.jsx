@@ -34,17 +34,15 @@ function Carousel() {
           src="./images/sponsors/25.webp"
           alt="img-25-dobroe"
           loading="lazy"
-
-  
         />
 
         <img
           className="images"
           src="./images/sponsors/26.webp"
           alt="img-26-alibaba"
-        loading="lazy"
+          loading="lazy"
         />
-       <img
+        <img
           className="images"
           src="./images/sponsors/2.webp"
           alt="img-2-vertus"
@@ -58,17 +56,17 @@ function Carousel() {
         />
       </div>
       <div className="box-images">
-      <img
+        <img
           className="images"
           src="./images/sponsors/6.webp"
           alt="img-6-jasurMuhammadjanov"
-        loading="lazy"
+          loading="lazy"
         />
         <img
           className="images"
           src="./images/sponsors/22.webp"
           alt="img-22-mednur"
-      loading="lazy"
+          loading="lazy"
         />
         <img
           className="images"
@@ -81,19 +79,19 @@ function Carousel() {
           className="images"
           src="./images/sponsors/20.webp"
           alt="img-20-gree"
-        loading="lazy"
+          loading="lazy"
         />
         <img
           className="images"
           src="./images/sponsors/21.webp"
           alt="img-21-push30"
-     loading="lazy"
+          loading="lazy"
         />
         <img
           className="images"
           src="./images/sponsors/7.webp"
           alt="img-7-galleryFlower"
-  loading="lazy"
+          loading="lazy"
         />
       </div>
       <div className="box-images">
@@ -101,37 +99,37 @@ function Carousel() {
           className="images"
           src="./images/sponsors/8.webp"
           alt="img-8-seynazTravel"
-         loading="lazy"
+          loading="lazy"
         />
         <img
           className="images"
           src="./images/sponsors/9.webp"
           alt="img-9-khasanHabibullaev"
-       loading="lazy"
+          loading="lazy"
         />
         <img
           className="images"
           src="./images/sponsors/10.webp"
           alt="img-10-marjon"
-       loading="lazy"
+          loading="lazy"
         />
         <img
           className="images"
           src="./images/sponsors/11.webp"
           alt="img-11-alexStudio"
-   loading="lazy"
+          loading="lazy"
         />
         <img
           className="images"
           src="./images/sponsors/12.webp"
           alt="img-12-amoreRosso"
-        loading="lazy"
+          loading="lazy"
         />
         <img
           className="images"
           src="./images/sponsors/13.webp"
           alt="img-13-drNigmatov"
-         loading="lazy"
+          loading="lazy"
         />
       </div>
       <div className="box-images">
@@ -139,48 +137,40 @@ function Carousel() {
           className="images"
           src="./images/sponsors/14.webp"
           alt="img-14-indykpol"
-    loading="lazy"
+          loading="lazy"
         />
         <img
           className="images"
           src="./images/sponsors/15.webp"
           alt="img-15-chinarMall"
-      loading="lazy"
+          loading="lazy"
         />
         <img
           className="images"
           src="./images/sponsors/16.webp"
           alt="img-16-drBahodirov"
-       loading="lazy"
+          loading="lazy"
         />
         <img
           className="images"
           src="./images/sponsors/17.webp"
           alt="img-17-minor"
-         loading="lazy"
+          loading="lazy"
         />
         <img
           className="images"
           src="./images/sponsors/18.webp"
           alt="img-18-rasulovGI"
-         loading="lazy"
+          loading="lazy"
         />
         <img
           className="images"
           src="./images/sponsors/19.webp"
           alt="img-19-dapyc"
-        loading="lazy"
+          loading="lazy"
         />
       </div>
-      <div className="box-images">
-        <img
-          className="images"
-          src="./images/sponsors/5.webp"
-          alt="img-5-kurbanovJamshid"
-        loading="lazy"
-        />
   
-      </div>
     </Slider>
   );
 }
