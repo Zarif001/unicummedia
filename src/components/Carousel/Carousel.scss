@@ -16,29 +16,33 @@
   display: grid !important;
   grid-template-columns: 1fr 1fr 1fr;
   align-items: center;
-  height: 100vh;
+  height: max-content;
 }
 .images{
-    width: 300px;
+    width: 375px;
+    object-fit: contain;
     display: block;
+    height: 300px;
 }
-@media(max-width:870px){
+
+@media(max-width:1280px){
+    .images{
+        width: 300px;
+    }
+}
+@media(max-width:1000px){
     .images{
         width: 250px;
     }
 }
-@media(max-width:750px){
+@media(max-width:769px){
     .images{
-        width: 200px;
+        width: 150px;
     }
 }
-@media(max-width:590px){
+@media(max-width:480px){
     .images{
-        width: 130px;
+        width: 100px;
     }
 }
-@media(max-width:400px){
-    .images{
-        width: 110px;
-    }
-}
+
