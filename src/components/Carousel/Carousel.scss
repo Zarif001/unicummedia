@@ -34,15 +34,26 @@
     .images{
         width: 250px;
     }
+    .slick-dots li button:before{
+        font-size: 12px;
+    }
 }
 @media(max-width:769px){
     .images{
         width: 150px;
+        height: 150px;
+    }
+    
+    .slick-dots li button:before{
+        font-size: 10px;
     }
 }
 @media(max-width:480px){
     .images{
         width: 100px;
+    }
+    .slick-dots li button:before{
+        font-size: 8px;
     }
 }
 
